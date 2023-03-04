@@ -1,0 +1,13 @@
+.container{
+  width: 50%;
+  
+  border: 5px solid blue;
+  border-radius: 50px;
+}
+.head{
+  width: 100%;
+  background-color: aqua;
+  padding:20px 0 20px 0;
+  border-start-start-radius: 80px 202px;
+  border-start-end-radius: 80px 80px;
+}
